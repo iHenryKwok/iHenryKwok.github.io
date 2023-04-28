@@ -1,20 +1,28 @@
 # Minghao GUO 郭明皓
 
-[Email](zjugmh@zju.edu.cn)  [LinkedIn](https://www.linkedin.com/in/mhguo)  [CV](./README.pdf)
+Email: zjugmh@zju.edu.cn
+
+[LinkedIn](https://www.linkedin.com/in/mhguo)  [CV](./README.pdf)
 
 ## Biography
 
-I am a yr-3 student at Ocean College, Zhejiang University. My research interests include machine learning, computer vision and natural language processing.
+I am a third-year undergraduate student from Zhejiang University. My research interests include machine learning, computer vision, and natural language processing. 
+
+I come from Ocean College and major in Ocean Engineering and Technology. Meanwhile, I am interested in Computer Science and AI. Therefore, in addition to my major courses, I have taken many core courses from the College of Computer Science (as detailed on my transcript) and actively participated in AI-related research projects. I am currently looking for a research internship in the field of machine learning.
 
 ## Research Experiences
 
-***2023.02 - present	NLP***
+***2023.02 - present	Robust Sentence-Level Evaluation***
 
-@@@@@@@@@@@@@@@@@@@
+......
 
-***2022.07 - 2023.03	Underwater Overlapping Fish Detection Study (zju SRTP)*** 
+***2022.07 - 2023.03	Underwater Overlapping Fish Detection Study (ZJU SRTP)*** 
 
-We use an improved yolov5 for underwater target detection. Our main work includes adding pre-processing, adding attention mechanism and using pre-trained models.
+Based on yolov5, we perform detection of underwater targets. Our work consists mainly in adding preprocessing, adding attention mechanisms and using pre-trained models.
+
+***2022.11 - 2022.12	Voice Conversion (CUHK AIST 2010 class project)*** 
+
+We proposed a method for regenerating music based on some given music track. We use Multi-scale Multi-band DenseNet to seperate the vocal and the background music, and then use the voice conversion method to change the two parts.
 
 ## Education
 
