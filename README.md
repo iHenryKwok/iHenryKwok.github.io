@@ -6,7 +6,7 @@ Email: zjugmh@zju.edu.cn
 
 ## Biography
 
-I am a third-year undergraduate student from Zhejiang University. My research interests include machine learning, computer vision, and natural language processing. 
+I am a third-year undergraduate student from Zhejiang University. My research interests include machine learning, computer vision and natural language processing. 
 
 I come from Ocean College and major in Ocean Engineering and Technology. Meanwhile, I am interested in Computer Science and AI. Therefore, in addition to my major courses, I have taken many core courses from the College of Computer Science (as detailed on my transcript) and actively participated in AI-related research projects. I am currently looking for a research internship in the field of machine learning.
 
