@@ -1,6 +1,6 @@
 # Minghao GUO 郭明皓
 
-Email: zjugmh@zju.edu.cn
+[Email](zjugmh@zju.edu.cn)  [LinkedIn](https://www.linkedin.com/in/mhguo)  [CV](./README.pdf)
 
 ## Biography
 
@@ -10,16 +10,17 @@ I am a yr-3 student at Ocean College, Zhejiang University. My research interests
 
 ***2023.02 - present	NLP***
 
-​	@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@
 
 ***2022.07 - 2023.03	Underwater Overlapping Fish Detection Study (zju SRTP)*** 
-	We use an improved yolov5 for underwater target detection. Our main work includes adding pre-processing, adding attention mechanism and using pre-trained models.
+
+We use an improved yolov5 for underwater target detection. Our main work includes adding pre-processing, adding attention mechanism and using pre-trained models.
 
 ## Education
 
-2020.09 - 2024.06	***B.S., Zhejiang University*** Ocean Engineering and Technology
+2020.09 - 2024.06		***B.S., Zhejiang University*** Ocean Engineering and Technology
 
-2022.09 - 2023.01 	***Exchange, The Chinese University of Hong Kong*** Office of Academic Links
+2022.09 - 2023.01		***Exchange, The Chinese University of Hong Kong*** Office of Academic Links
 
 ## Honors & Awards
 
