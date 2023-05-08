@@ -2,7 +2,7 @@
 
 Email: zjugmh@zju.edu.cn
 
-[LinkedIn](https://www.linkedin.com/in/mhguo)  [CV](./README.pdf)
+[LinkedIn](https://www.linkedin.com/in/mhguo)  [CV](./README.pdf)  [GitHub](https://github.com/iHenryKwok)
 
 ## Biography
 
@@ -43,3 +43,9 @@ We proposed a method for regenerating music based on some given music track. We 
 2021.08.31	Third Prize of National Zhou Peiyuan University Mechanics Competition (Individual Competition)
 
 2020.12.01	First prize in the National University Mathematics Competition (non-mathematics group)
+
+## Currently Focus On
+
+- [course ML2022-spring provided by Hung-yi Lee @NTU](https://github.com/iHenryKwok/ML2022_my_solution)
+- finding a summer research intern
+- TOEFL
