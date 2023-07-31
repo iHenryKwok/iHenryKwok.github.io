@@ -8,13 +8,17 @@ Email: zjugmh@zju.edu.cn
 
 I am a third-year undergraduate student from Zhejiang University. My research interests include machine learning, computer vision and natural language processing. 
 
-I come from Ocean College and major in Ocean Engineering and Technology. Meanwhile, I am interested in Computer Science and AI. Therefore, in addition to my major courses, I have taken many core courses from the College of Computer Science (as detailed on my transcript) and actively participated in AI-related research projects. I am currently looking for a research internship in the field of machine learning.
+I come from Ocean College and major in Ocean Engineering and Technology. Meanwhile, I am interested in Computer Science and AI. Therefore, in addition to my major courses, I have taken many core courses from the College of Computer Science (as detailed on my transcript) and actively participated in AI-related research projects. I am currently seeking PhD/MPhil opportunities in the field of deep learning.
 
 ## Research Experiences
 
-***2023.02 - present	Robust Sentence-Level Evaluation***
+***2023.06 - present	video editing***
 
 ......
+
+***2023.02 - 2023.04	Robust Sentence-Level Evaluation***
+
+under review
 
 ***2022.07 - 2023.03	Underwater Overlapping Fish Detection Study (ZJU SRTP)*** 
 
@@ -46,6 +50,6 @@ We proposed a method for regenerating music based on some given music track. We 
 
 ## Currently Focus On
 
-- [course ML2022-spring provided by Hung-yi Lee @NTU](https://github.com/iHenryKwok/ML2022_my_solution)
-- finding a summer research intern
+- video editing
 - TOEFL
+- PhD/MPhil application
