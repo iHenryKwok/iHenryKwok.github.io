@@ -2,7 +2,7 @@
 
 Email: zjugmh@zju.edu.cn
 
-[LinkedIn](https://www.linkedin.com/in/mhguo)  [CV](./README.pdf)  [GitHub](https://github.com/iHenryKwok)
+[LinkedIn](https://www.linkedin.com/in/mhguo)  [CV](./README.pdf)  [GitHub](https://github.com/minghaoguo20)
 
 ## Biography
 
@@ -16,15 +16,15 @@ I come from Ocean College and major in Ocean Engineering and Technology. Meanwhi
 
 ......
 
-***2023.02 - 2023.04	Robust Sentence-Level Evaluation***
+***2023.02 - 2023.04	Robust Sentence-Level Evaluation (Yale Remote RA)***
 
 under review
 
-***2022.07 - 2023.03	Underwater Overlapping Fish Detection Study (ZJU SRTP)*** 
+***2022.07 - 2022.10	Underwater Overlapping Fish Detection Study (ZJU SRTP)*** 
 
 Based on yolov5, we perform detection of underwater targets. Our work consists mainly in adding preprocessing, adding attention mechanisms and using pre-trained models.
 
-***2022.11 - 2022.12	Voice Conversion (CUHK AIST 2010 class project)*** 
+***2022.11 - 2022.12	Voice Conversion (CUHK AIST2010 class project)*** 
 
 We proposed a method for regenerating music based on some given music track. We use Multi-scale Multi-band DenseNet to seperate the vocal and the background music, and then use the voice conversion method to change the two parts.
 
