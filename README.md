@@ -30,7 +30,7 @@ We proposed a method for regenerating music based on some given music track. We 
 
 ## Education
 
-2020.09 - 2024.06		***B.S., Zhejiang University*** Ocean Engineering and Technology
+2020.09 - 2024.06		***B.S., Zhejiang University*** Ocean Engineering and Technology (90.10/100)
 
 2022.09 - 2023.01		***Exchange, The Chinese University of Hong Kong*** Office of Academic Links
 
@@ -53,3 +53,5 @@ We proposed a method for regenerating music based on some given music track. We 
 - video editing
 - TOEFL
 - PhD/MPhil application
+
+> Last update time: 2023/08/16
