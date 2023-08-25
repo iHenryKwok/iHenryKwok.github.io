@@ -12,7 +12,7 @@ I come from Ocean College and major in Ocean Engineering and Technology. Meanwhi
 
 ## Research Experiences
 
-***2023.06 - present	video editing***
+***2023.06 - present	diffusion model based video editing (ZJU ccai lab)***
 
 ......
 
@@ -20,19 +20,19 @@ I come from Ocean College and major in Ocean Engineering and Technology. Meanwhi
 
 under review
 
-***2022.07 - 2022.10	Underwater Overlapping Fish Detection Study (ZJU SRTP)*** 
-
-Based on yolov5, we perform detection of underwater targets. Our work consists mainly in adding preprocessing, adding attention mechanisms and using pre-trained models.
-
 ***2022.11 - 2022.12	Voice Conversion (CUHK AIST2010 class project)*** 
 
 We proposed a method for regenerating music based on some given music track. We use Multi-scale Multi-band DenseNet to seperate the vocal and the background music, and then use the voice conversion method to change the two parts.
 
+***2022.07 - 2022.10	Underwater Overlapping Fish Detection Study (ZJU SRTP)*** 
+
+Based on yolov5, we perform detection of underwater targets. Our work consists mainly in adding preprocessing, adding attention mechanisms and using pre-trained models.
+
 ## Education
 
-2020.09 - 2024.06		***B.S., Zhejiang University*** Ocean Engineering and Technology (GPA: 90.10/100)
+2020.09 - 2024.06		***B.S., Zhejiang University*** Ocean Engineering and Technology (GPA: 90.10/100 [zju transcript](attachment/zju.pdf))
 
-2022.09 - 2023.01		***Exchange, The Chinese University of Hong Kong*** Office of Academic Links
+2022.09 - 2023.01		***Exchange, The Chinese University of Hong Kong*** Office of Academic Links ([cuhk transcript](attachment/cuhk.pdf))
 
 ## Honors & Awards
 
@@ -54,4 +54,4 @@ We proposed a method for regenerating music based on some given music track. We 
 - TOEFL
 - PhD/MPhil application
 
-> Last update time: 2023/08/16
+> Last update time: 2023/08/25
