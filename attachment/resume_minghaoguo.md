@@ -30,7 +30,7 @@ Based on yolov5, we perform detection of underwater targets. Our work consists m
 
 ## Education
 
-2020.09 - 2024.06		***B.S., Zhejiang University*** Ocean Engineering and Technology (GPA: 90.10/100 [zju transcript](attachment/zju.pdf))
+2020.09 - 2024.06		***B.S., Zhejiang University*** Ocean Engineering and Technology (GPA: 90.19/100 [zju transcript](attachment/zju.pdf))
 
 2022.09 - 2023.01		***Exchange, The Chinese University of Hong Kong*** Office of Academic Links ([cuhk transcript](attachment/cuhk.pdf))
 
